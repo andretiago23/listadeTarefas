@@ -1,9 +1,9 @@
-package tarefas;
 
-public class HelloWorld {
+		package tarefas;
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		public class HelloWorld {
+		public static void main(String args[]) {
+			System.out.println("hello world !!!!!!!!!!!!!!!!!!");
 
 	}
 
